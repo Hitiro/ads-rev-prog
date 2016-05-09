@@ -1,9 +1,12 @@
 # ads-rev-prog
 Repositório de fontes desenvolvido aos sábados como conteúdo de revisão relacionado as disciplinas de progrmação.
 
-# Encontros & Projetos
+## Atividades
+As atividades que estão sendo consideradas para discuções e implementações, podem ser acessadas através deste [link](https://github.com/aulas-lab/ads-rev-prog/tree/master/atividades)
 
-## 07/05/2016
+## Encontros & Projetos
+
+### 07/05/2016
 * IdentificaMaior: baseado em conceitos básicos: entrada, processamento e saída
 * MostraTabuada: paresenta uma lógica simples para geração das tabudas de 1 ao 10, utilizando-se do recurso de repetição.
 * Conta21e50: algorítmo símples para contagem de elementos baseados em algum critério.
